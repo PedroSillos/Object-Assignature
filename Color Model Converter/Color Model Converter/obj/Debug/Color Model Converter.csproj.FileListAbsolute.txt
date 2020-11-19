@@ -1,0 +1,10 @@
+C:\Color-Model-Converter\Color Model Converter\Color Model Converter\bin\Debug\Color Model Converter.exe.config
+C:\Color-Model-Converter\Color Model Converter\Color Model Converter\bin\Debug\Color Model Converter.exe
+C:\Color-Model-Converter\Color Model Converter\Color Model Converter\bin\Debug\Color Model Converter.pdb
+C:\Color-Model-Converter\Color Model Converter\Color Model Converter\obj\Debug\Color Model Converter.csprojAssemblyReference.cache
+C:\Color-Model-Converter\Color Model Converter\Color Model Converter\obj\Debug\Color_Model_Converter.Properties.Resources.resources
+C:\Color-Model-Converter\Color Model Converter\Color Model Converter\obj\Debug\Color Model Converter.csproj.GenerateResource.cache
+C:\Color-Model-Converter\Color Model Converter\Color Model Converter\obj\Debug\Color Model Converter.csproj.CoreCompileInputs.cache
+C:\Color-Model-Converter\Color Model Converter\Color Model Converter\obj\Debug\Color Model Converter.exe
+C:\Color-Model-Converter\Color Model Converter\Color Model Converter\obj\Debug\Color Model Converter.pdb
+C:\Color-Model-Converter\Color Model Converter\Color Model Converter\obj\Debug\Color_Model_Converter.Form1.resources
