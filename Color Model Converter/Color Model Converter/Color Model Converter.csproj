@@ -7,7 +7,7 @@
     <ProjectGuid>{316A000D-9816-4AA4-A239-82EAEB8B28BC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Color_Model_Converter</RootNamespace>
-    <AssemblyName>Color Model Converter</AssemblyName>
+    <AssemblyName>Object Assignature</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
